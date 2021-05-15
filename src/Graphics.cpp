@@ -5,15 +5,6 @@
 #include "Graphics.h"
 #include "Intersection.h"
 
-    Graphics::Graphics()
-    {
-      
-    }
-    
-    Graphics::~Graphics()
-    {
-    }
-
 void Graphics::simulate()
 {
     this->loadBackgroundImg();
